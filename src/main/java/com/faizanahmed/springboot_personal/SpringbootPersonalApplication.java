@@ -9,5 +9,8 @@ public class SpringbootPersonalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootPersonalApplication.class, args);
 	}
-
+	/*
+	* This class is where the app will be launched. A Tomcat server will be
+	* launched with a specified port number
+	* */
 }
