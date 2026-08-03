@@ -11,6 +11,8 @@ public class SpringbootPersonalApplication {
 	}
 	/*
 	* This class is where the app will be launched. A Tomcat server will be
-	* launched with a specified port number
+	* launched with a specified port number.
+	* The name of the database created for this application during runtime is:
+	* jdbc:h2:mem:testdb
 	* */
 }
